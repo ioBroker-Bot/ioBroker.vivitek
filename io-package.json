@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vivitek",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "news": {
+      "0.1.3": {
+        "en": "updated dependencies and issues from repository checker\nmigrate to NPM Trusted Publishing",
+        "de": "aktualisierte abhängigkeiten und probleme von repository checker\nmigrate to NPM Trusted Publishing",
+        "ru": "обновленные зависимости и проблемы из проверки репозитория\nперейти в NPM Trusted Publishing",
+        "pt": "dependências e problemas atualizados do verificador de repositório\nmigrar para a publicação confiável do NPM",
+        "nl": "bijgewerkte afhankelijkheden en problemen van repository-checker\nmigreren naar NPM Trusted Publishing",
+        "fr": "les dépendances et les problèmes mis à jour par le vérificateur du dépôt\nmigrer vers NPM Trusted Publishing",
+        "it": "dipendenze aggiornate e problemi da repository checker\nmigrare a NPM Trusted Publishing",
+        "es": "dependencias actualizadas y cuestiones del control del repositorio\nmigrar a NPM Trusted Publishing",
+        "pl": "zaktualizowane zależności i problemy z kontrolerem repozytorium\nmigracja do NPM Trusted Publishing",
+        "uk": "оновлені залежності та питання репозиторійної перевірки\nmigrate до NPM Trusted Видавництво",
+        "zh-cn": "从仓库检查器更新的依赖性和问题\n向国家预防机制迁移"
+      },
       "0.1.2": {
         "en": "updated dependencies and issues from repository checker",
         "de": "aktualisierte abhängigkeiten und probleme von repository checker",
